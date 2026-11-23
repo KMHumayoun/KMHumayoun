@@ -1,4 +1,4 @@
-##Python Developer | AI, Machine Learning & Deep Learning | Medical Image Processing##
+## Python Developer | AI, Machine Learning & Deep Learning | Medical Image Processing
 
 I build complete software solutions from specification to tested, finished product — with a focus on artificial intelligence, business software, and data-driven tools that solve real problems.
 
